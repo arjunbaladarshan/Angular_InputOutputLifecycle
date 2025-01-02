@@ -8,7 +8,7 @@ import { Component } from '@angular/core';
 })
 export class ContactComponent {
   constructor(){
-    console.log("ContactComponent Constructed")
+    console.log("ContactComponent Constructed updated")
   }
 
   ngOnInit(){
